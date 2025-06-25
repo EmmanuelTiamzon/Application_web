@@ -5,7 +5,7 @@
 Le projet utilise une base de données de données de séries (créée par Jérôme Cutrona). Il consiste à écrire une application web qui permet :
 -   la consultation/recherche d'informations contenues dans la bd (series, saisons, épisodes, critiques),
 -   la possibilité de laisser des critiques/notes pour une série.
-Consulter le ici[https://github.com/EmmanuelTiamzon/Application_web/blob/main/index.php]
+Consulter le [ici](https://github.com/EmmanuelTiamzon/Application_web/blob/main/index.php)
 ---
 
 ## Auteurs
